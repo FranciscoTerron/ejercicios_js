@@ -1,1 +1,3 @@
-print("Hola mundo")
+function saludar (nombre){
+    return `Hola, ${nombre}`;
+}
